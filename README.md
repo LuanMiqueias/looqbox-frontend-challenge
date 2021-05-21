@@ -33,7 +33,7 @@ Na página principal há uma listagem de alguns pokemon já selecionados ao clic
 - Clone o projeto
 - Abra o terminal na pasta do projeto
 - Instale as dependencias com `yarn`
-- Depois rode a aplicação com `yarn start
+- Depois rode a aplicação com `yarn start`
 
 ## Imagens do projeto
  ![pokeapp](https://user-images.githubusercontent.com/47904212/118481249-a3ff8800-b6e9-11eb-80dd-98d8bfe3bd24.png)
